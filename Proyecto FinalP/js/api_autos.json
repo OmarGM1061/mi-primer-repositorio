@@ -1,0 +1,74 @@
+[
+    {
+      "precio": "",
+      "id": 1,
+      "title": "Naruto Uzumaki",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/1.jpg"
+    },
+    {
+      "precio": "",
+      "id": 2,
+      "title": "Minato Namikase",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/2.jfif"
+    },
+    {
+      "precio": "",
+      "id": 3,
+      "title": "Itachi Uchiha",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/3.jpg"
+    },
+    {
+      "precio": "",
+      "id": 4,
+      "title": "Deidara",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/4.jpg"
+    },
+    {
+      "precio": "",
+      "id": 5,
+      "title": "Boa Hancko",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/5.jpg"
+    },
+    {
+      "precio": "",
+      "id": 6,
+      "title": "Nico Robin",
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/6.jpg"
+    },
+    {
+        "precio": "",
+        "id": 7,
+        "title": "Sakura Nara",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/7.jfif"
+      },
+      {
+        "precio": "",
+        "id": 8,
+        "title": "Naruto 6 caminos",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/8.jpg"
+      },
+      {
+        "precio": "",
+        "id": 9,
+        "title": "Todoroki",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/9.jfif"
+      }, 
+      {
+        "precio": "",
+        "id": 10,
+        "title": "Bakugo",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/10.jpg"
+      },
+      {
+        "precio": "",
+        "id": 11,
+        "title": "Deku",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/11.jpg"
+      },
+      {
+        "precio": "",
+        "id": 12,
+        "title": "Deku Funko",
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/imagenesPfinal/12.jpg"
+      }   
+  ]
